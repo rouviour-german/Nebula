@@ -43,6 +43,10 @@ npm run build
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
